@@ -22,3 +22,6 @@ The chatbot’s functionality was expanded by manually adding more questions and
 
 Throughout the setup, several common issues were resolved, such as fixing the PATH variable, downloading missing NLTK resources (like punkt), and organizing Python project files in VS Code. The chatbot code was kept modular and clear, enabling future enhancements, such as integrating a local dataset or expanding to a retrieval-based model using question-answer pairs. In conclusion, this AI Chatbot project demonstrates how to build a friendly and informative assistant for academic purposes using free, open-source tools while maintaining offline capabilities and ease of use through Streamlit in VS Code.
 
+output
+
+![Image](https://github.com/user-attachments/assets/a2ee4206-40a4-4dec-a7fe-d5c120786b85)
